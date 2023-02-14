@@ -1,1 +1,0 @@
-# dafe_PyQt5_projects
